@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Parashop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navBar" id="navBar">
+        <div class="navBarContent">
+            <div>
+                <div class="navItem">Parashop</div>
+                <div class="navItem" v-on:mouseover="showCatalog = 1"  v-on:mouseleave="showCatalog = 0">Каталог</div>
+                <div class="navItem">О нас</div>
+                <div class="navItem">Контакты</div>
+                <div class="navItem">Доставка и оплата</div>
+            </div>
+            <div v-if="loginState === 1" v-on:click="loginState = 0">
+                <div class="navItem">Личный кабинет</div>
+                <div class="navItem">Корзина</div>
+            </div>
+            <div v-else  v-on:click="loginState = 1">
+                <div class="navItem">Войти</div>
+            </div>
+        </div>
+        <div class="catalog" v-if="showCatalog == 1" v-on:mouseover="showCatalog = 1"  v-on:mouseleave="showCatalog = 0">
+            <div class="catalogContent">
+                <div>
+                    <div class="catalogCategory">Основные купола</div>
+                    <div class="catalogItem">АО "Полёт"</div>
+                    <div class="catalogItem">Atair Canopies</div>
+                    <div class="catalogItem">NZ Aerosports</div>
+                    <div class="catalogItem">Aerodyne International</div>
+                    <div class="catalogItem">Icarus Canopies</div>
+                    <div class="catalogItem">Performance Designs</div>
+                    <div class="catalogItem">ParAAvis</div>
+                    <div class="catalogItem">Skylark</div>
+                    <div class="catalogItem">Squirrel</div>
+                </div>
+                <div>
+                    <div class="catalogCategory">Запасные купола</div>
+                    <div class="catalogItem">АО "Полёт"</div>
+                    <div class="catalogItem">SkyLark</div>
+                    <div class="catalogItem">Aerodyne International</div>
+                    <div class="catalogItem">Icarus Canopies</div>
+                    <div class="catalogItem">Performance Designs</div>
+                    <div class="catalogItem">ParAAvis</div>
+                    <div class="catalogItem">Mars</div>
+                </div>
+                <div>
+                    <div class="catalogCategory">Ранцы</div>
+                    <div class="catalogItem">АО "Полёт"</div>
+                    <div class="catalogItem">Aerodyne International</div>
+                    <div class="catalogItem">Sun Path</div>
+                    <div class="catalogItem">UPT</div>
+                    <div class="catalogItem">Mirage Systems</div>
+                    <div class="catalogItem">Sunrise Rigging</div>
+                    <div class="catalogItem">ParAAvis</div>
+                    <div class="catalogItem">SWS</div>
+                    <div class="catalogItem">Mars</div>
+                </div>
+                <div>
+                    <div class="catalogCategory">Страхующие приборы</div>
+                    <div class="catalogItem">Cypres</div>
+                    <div class="catalogItem">Vigil</div>
+                    <div class="catalogItem">MarS</div>
+                </div>
+                <div>
+                    <div class="catalogCategory">Высотомеры</div>
+                    <div class="catalogItem">Аналоговые высотомеры</div>
+                    <div class="catalogItem">Электронные высотомеры</div>
+                    <div class="catalogItem">Звуковые высотомеры</div>
+                    <div class="catalogItem">Alti-2</div>
+                    <div class="catalogItem">Barigo</div>
+                    <div class="catalogItem">Larsen & Brusgaard</div>
+                    <div class="catalogItem">Robnik Altimeters</div>
+                </div>
+                <div>
+                    <div class="catalogCategory">Шлемы</div>
+                    <div class="catalogItem">Открытые шлемы</div>
+                    <div class="catalogItem">Закрытые шлемы</div>
+                    <div class="catalogItem">Шлемы видеооператоров</div>
+                    <div class="catalogItem">Cookie</div>
+                    <div class="catalogItem">BoneHead Composites</div>
+                    <div class="catalogItem">Square One</div>
+                    <div class="catalogItem">Parasport Italia</div>
+                </div>
+                <div>
+                    <div class="catalogCategory">BASE снаряжение</div>
+                    <div class="catalogItem">Ранцы для B.A.S.E</div>
+                    <div class="catalogItem">Купола для B.A.S.E</div>
+                    <div class="catalogItem">Аксесуары</div>
+                    <div class="catalogItem">AcrobatBASE</div>
+                    <div class="catalogItem">Adrenalin Base</div>
+                    <div class="catalogItem">Atair Canopies</div>
+                    <div class="catalogItem">Performance Designs</div>
+                    <div class="catalogItem">Squirrel</div>
+                </div>
+                <div>
+                    <div class="catalogCategory">Вингсьюты</div>
+                    <div class="catalogItem">Intrudair</div>
+                    <div class="catalogItem">Squirrel</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="main" id="main">
+        
+
+
+
+    </div>
+
+
+
+
+
+    <div class="footer">
+        <div class="footerContent">
+            <div class="footerLinks">
+                <div class="">Условия обмена и возврата</div>
+                <div class="">Полезные статьи</div>
+                <div class="">Доставка и оплата</div>
+            </div>
+            <hr>
+            <div class="footerContacts">
+                <div class="footerMail">
+                    <span>mail@mail.ru</span>
+                    <span>88005553535</span>
+                </div>
+                <span>Parashop 2022</span>
+                <div class="socialMedia">
+                    <div class="social"></div>
+                    <div class="social"></div>
+                    <div class="social"></div>
+                    <div class="social"></div>
+                    <div class="social"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="./main.js"></script>
+</body>
+</html>
