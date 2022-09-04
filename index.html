@@ -21,86 +21,71 @@
                     <div class="navItem">Корзина</div>
                 </div>
                 <div v-else  v-on:click="loginState = 1">
-                    <div class="navItem">Войти</div>
+                    <div class="navItem" v-on:click="logInUp = 'login'">Войти</div>
                 </div>
             </div>
             <div class="catalog" v-if="showCatalog == 1" v-on:mouseleave="showCatalog = !showCatalog">
                 <div class="catalogContent">
                     <div>
                         <div class="catalogCategory">Основные купола</div>
-                        <div class="catalogItem">АО "Полёт"</div>
                         <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'Atair Canopies',)">Atair Canopies</div>
                         <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'NZ Aerosport',)">NZ Aerosports</div>
                         <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'Aerodyne International',)">Aerodyne International</div>
-                        <div class="catalogItem">Icarus Canopies</div>
-                        <div class="catalogItem">Performance Designs</div>
-                        <div class="catalogItem">ParAAvis</div>
-                        <div class="catalogItem">Skylark</div>
-                        <div class="catalogItem">Squirrel</div>
+                        <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'Icarus Canopies',)">Icarus Canopies</div>
+                        <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'Performance Designs',)">Performance Designs</div>
+                        <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'ParAAvis',)">ParAAvis</div>
+                        <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'Skylark',)">Skylark</div>
+                        <div class="catalogItem" v-on:click="showCategory('mainCanopies', 'Squirrel',)">Squirrel</div>
                     </div>
                     <div>
                         <div class="catalogCategory">Запасные купола</div>
-                        <div class="catalogItem">АО "Полёт"</div>
-                        <div class="catalogItem">SkyLark</div>
-                        <div class="catalogItem">Aerodyne International</div>
-                        <div class="catalogItem">Icarus Canopies</div>
-                        <div class="catalogItem">Performance Designs</div>
-                        <div class="catalogItem">ParAAvis</div>
-                        <div class="catalogItem">Mars</div>
+                        <div class="catalogItem" v-on:click="showCategory('reserveCanopies', 'Skylark',)">SkyLark</div>
+                        <div class="catalogItem" v-on:click="showCategory('reserveCanopies', 'Aerodyne International',)">Aerodyne International</div>
+                        <div class="catalogItem" v-on:click="showCategory('reserveCanopies', 'Icarus Canopies',)">Icarus Canopies</div>
+                        <div class="catalogItem" v-on:click="showCategory('reserveCanopies', 'Performance Designs',)">Performance Designs</div>
+                        <div class="catalogItem" v-on:click="showCategory('reserveCanopies', 'ParAAvis',)">ParAAvis</div>
+                        <div class="catalogItem" v-on:click="showCategory('reserveCanopies', 'Mars',)">Mars</div>
                     </div>
                     <div>
                         <div class="catalogCategory">Ранцы</div>
-                        <div class="catalogItem">АО "Полёт"</div>
-                        <div class="catalogItem">Aerodyne International</div>
-                        <div class="catalogItem">Sun Path</div>
-                        <div class="catalogItem">UPT</div>
-                        <div class="catalogItem">Mirage Systems</div>
-                        <div class="catalogItem">Sunrise Rigging</div>
-                        <div class="catalogItem">ParAAvis</div>
-                        <div class="catalogItem">SWS</div>
-                        <div class="catalogItem">Mars</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'Aerodyne International',)">Aerodyne International</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'Sun Path',)">Sun Path</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'UPT',)">UPT</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'Mirage Systems',)">Mirage Systems</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'Sunrise Rigging',)">Sunrise Rigging</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'ParAAvis',)">ParAAvis</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'SWS',)">SWS</div>
+                        <div class="catalogItem" v-on:click="showCategory('containers', 'Mars',)">Mars</div>
                     </div>
                     <div>
                         <div class="catalogCategory">Страхующие приборы</div>
-                        <div class="catalogItem">Cypres</div>
-                        <div class="catalogItem">Vigil</div>
-                        <div class="catalogItem">MarS</div>
+                        <div class="catalogItem" v-on:click="showCategory('aad', 'Cypres',)">Cypres</div>
+                        <div class="catalogItem" v-on:click="showCategory('aad', 'Vigil',)">Vigil</div>
+                        <div class="catalogItem" v-on:click="showCategory('aad', 'Mars',)">Mars</div>
                     </div>
                     <div>
                         <div class="catalogCategory">Высотомеры</div>
-                        <div class="catalogItem" style="font-weight: 700;">Аналоговые высотомеры &#62;</div>
-                        <div class="catalogItem" style="font-weight: 700;">Электронные высотомеры &#62;</div>
-                        <div class="catalogItem" style="font-weight: 700;">Звуковые высотомеры &#62;</div>
-                        <div class="catalogItem">Alti-2</div>
-                        <div class="catalogItem">Barigo</div>
-                        <div class="catalogItem">Larsen & Brusgaard</div>
-                        <div class="catalogItem">Robnik Altimeters</div>
+                        <div class="catalogItem" style="font-weight: 700;" v-on:click="showCategory('altimeters', undefined,'analogAltimeter')">Аналоговые высотомеры &#62;</div>
+                        <div class="catalogItem" style="font-weight: 700;" v-on:click="showCategory('altimeters', undefined,'digitalAltimeter')">Электронные высотомеры &#62;</div>
+                        <div class="catalogItem" style="font-weight: 700;" v-on:click="showCategory('altimeters', undefined,'soundAltimeter')">Звуковые высотомеры &#62;</div>
+                        <div class="catalogItem" v-on:click="showCategory('altimeters', 'Alti-2',)">Alti-2</div>
+                        <div class="catalogItem" v-on:click="showCategory('altimeters', 'Barigo',)">Barigo</div>
+                        <div class="catalogItem" v-on:click="showCategory('altimeters', 'Larsen & Brusgaard',)">Larsen & Brusgaard</div>
+                        <div class="catalogItem" v-on:click="showCategory('altimeters', 'Robnik Altimeters',)">Robnik Altimeters</div>
                     </div>
                     <div>
                         <div class="catalogCategory">Шлемы</div>
-                        <div class="catalogItem" style="font-weight: 700;">Открытые шлемы &#62;</div>
-                        <div class="catalogItem" style="font-weight: 700;">Закрытые шлемы &#62;</div>
-                        <div class="catalogItem" style="font-weight: 700;">Шлемы видеооператоров &#62;</div>
-                        <div class="catalogItem">Cookie</div>
-                        <div class="catalogItem">BoneHead Composites</div>
-                        <div class="catalogItem">Square One</div>
-                        <div class="catalogItem">Parasport Italia</div>
-                    </div>
-                    <div>
-                        <div class="catalogCategory">BASE снаряжение</div>
-                        <div class="catalogItem" style="font-weight: 700;">Ранцы для B.A.S.E &#62;</div>
-                        <div class="catalogItem" style="font-weight: 700;">Купола для B.A.S.E &#62;</div>
-                        <div class="catalogItem" style="font-weight: 700;">Аксесуары &#62;</div>
-                        <div class="catalogItem">AcrobatBASE</div>
-                        <div class="catalogItem">Adrenalin Base</div>
-                        <div class="catalogItem">Atair Canopies</div>
-                        <div class="catalogItem">Performance Designs</div>
-                        <div class="catalogItem">Squirrel</div>
+                        <div class="catalogItem" style="font-weight: 700;" v-on:click="showCategory('helmets', undefined,'openHelmet')">Открытые шлемы &#62;</div>
+                        <div class="catalogItem" style="font-weight: 700;" v-on:click="showCategory('helmets', undefined,'closeHelmet')">Закрытые шлемы &#62;</div>
+                        <div class="catalogItem" style="font-weight: 700;" v-on:click="showCategory('helmets', undefined,'cameramanHelmet')">Шлемы видеооператоров &#62;</div>
+                        <div class="catalogItem" v-on:click="showCategory('helmets', 'BoneHead Composites',)">BoneHead Composites</div>
+                        <div class="catalogItem" v-on:click="showCategory('helmets', 'Square One',)">Square One</div>
+                        <div class="catalogItem" v-on:click="showCategory('helmets', 'Parasport Italia',)">Parasport Italia</div>
                     </div>
                     <div>
                         <div class="catalogCategory">Вингсьюты</div>
-                        <div class="catalogItem">Intrudair</div>
-                        <div class="catalogItem">Squirrel</div>
+                        <div class="catalogItem" v-on:click="showCategory('wingsuits', 'Intrudair',)">Intrudair</div>
+                        <div class="catalogItem" v-on:click="showCategory('wingsuits', 'Squirrel',)">Squirrel</div>
                     </div>
                 </div>
             </div>
@@ -122,7 +107,7 @@
                     <h2>Самое нужное</h2>
                     <div class="mainPopular">
                         <div class="popularItem">
-                            <img src="./img/cookieg4.png" alt="">
+                            <img src="./img/catalog/winx.jpg" alt="">
                             <h2>Cookie G4</h2>
                             <h3>39 000</h3>
                         </div>
@@ -217,18 +202,47 @@
             </div>
             <div class="mainPage" v-if="page == 'catalog'">
                 <div>
-                    <h2>***Категория***</h2>
+                    <h2>{{ catalogPage.category}} {{catalogPage.manufacturer}}</h2>
                     <div class="catalogPageContainer">
-                        <div class="catalogPageCard">
-                            <img src="./img/cookieg4.png" alt="">
-                            <h2>Cookie G4</h2>
-                            <h3>39 000</h3>
+                        <div class="catalogPageCard" v-for="id in catalogPage.goodsID">
+                            <img :src="id.img" alt="" v-on:click="showItem(id.id)">
+                            <h2 v-on:click="showItem(id.id)">{{ id.name }}</h2>
+                            <h3>{{ id.price }}</h3>
                             <div class="addToCartButton">В корзину</div>
                         </div>
 
 
                     </div>
                 </div>                
+            </div>
+            <div class="itemPage" v-if="page == 'item'">
+                <div class="itemPageImg">
+                    <img :src="itemPage.img" alt="">
+                </div>
+                <div class="itemPageInfo">
+                    <div class="itemPagePrice">
+                        <div>
+                            <h1>{{ itemPage.name }}</h1>
+                        </div>
+                        <div class="priceAndQuantity">
+                            <div class="price">
+                                <span>Цена: </span>
+                                <span>{{ itemPage.price }}</span>
+                                <span> &#8381;</span>
+                            </div>
+                            <div class="quantity">
+                                <span>Количество: </span>
+                                <input type="text" name="" id="">
+                            </div>
+                        </div>
+                        <div class="addToCartButton">
+                            В корзину
+                        </div>
+                    </div>
+                    <div class="itemPageDescription">
+                        <p v-for="description in itemPage.description"> {{ description }}</p>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -251,16 +265,66 @@
                     </div>
                     <span>Parashop 2022</span>
                     <div class="socialMedia">
-                        <div class="social"></div>
-                        <div class="social"></div>
-                        <div class="social"></div>
-                        <div class="social"></div>
-                        <div class="social"></div>
+                        <div class="social"><img src="./img/icons/vk.png" alt=""></div>
+                        <div class="social"><img src="./img/icons/telegram.png" alt=""></div>
+                        <div class="social"><img src="./img/icons/instagram.png" alt=""></div>
+                        <div class="social"><img src="./img/icons/facebook.png" alt=""></div>
+                        <div class="social"><img src="./img/icons/whatsapp.png" alt=""></div>
+                        <div class="social"><img src="./img/icons/youtube.png" alt=""></div>
                     </div>
                 </div>
             </div>
         </div>
-    <!-- </div> -->
+
+
+
+        <div class="modalWindowBlur" v-if:="logInUp != ''">
+            <div class="loginWindow">
+                <div class="signInOrUp">
+                    <div class="tab" v-on:click="logInUp = 'login'">Войти</div>
+                    <div class="tab" v-on:click="logInUp = 'register'">Зарегистрироваться</div>
+                    <div class="tab" v-on:click="logInUp = ''">X</div>
+                </div>
+                <div class="data" v-if:="logInUp == 'login'">
+                    <div style="color: red; text-align: center">Для входа можно использовать log/pass 123/123</div>
+                    <div class="dataString">
+                        <div>E-mail: </div>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="dataString">
+                        <div>Пароль: </div>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="addToCartButton">Войти</div>
+                </div>
+                <div class="data" v-if:="logInUp == 'register'">
+                    <div class="dataString">
+                        <div>Имя: </div>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="dataString">
+                        <div>Фамилия: </div>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="dataString">
+                        <div>Телефон: </div>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="dataString">
+                        <div>E-mail: </div>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="dataString">
+                        <div>Пароль: </div>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="addToCartButton">Зарегистрироваться</div>
+                </div>
+            </div>
+        </div>
+
+
+
     <script src="https://unpkg.com/vue@3"></script>
     <script src="./main.js"></script>
 </body>

@@ -15,13 +15,11 @@
         "Опция Light стоит: 200 €"
       ],
       "id": "0",
-      "img": [
-        "winx.jpg"
-      ],
+      "img": "./img/catalog/winx.jpg",
       "manufacturer": "Atair Canopies",
       "name": "WinX",
       "price": 114254,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -29,13 +27,11 @@
         "Улучшенный дизайн, новая технология power-band, более длинная дуга выхода, хорошие пролеты  и традиционное комфортное раскрытие Crossfire."
       ],
       "id": "1",
-      "img": [
-        "Crossfire3.jpg"
-      ],
+      "img": "./img/catalog/Crossfire3.jpg",
       "manufacturer": "NZ Aerosport",
       "name": "Crossfire3",
       "price": 157944,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -43,13 +39,11 @@
         "Популярный купол для тандем систем с огромной наработкой по всему миру."
       ],
       "id": "2",
-      "img": [
-        "ICtandem.jpg"
-      ],
+      "img": "./img/catalog/Icarus tandem.jpg",
       "manufacturer": "NZ Aerosport",
       "name": "Icarus Tandem",
       "price": 148653,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -57,13 +51,11 @@
         "21-секционный косонервюрный парашют на каждый день. Мягкое стабильное раскрытие и хорошие пролеты на приземлении."
       ],
       "id": "3",
-      "img": [
-        "jfx2.png"
-      ],
+      "img": "./img/catalog/JFX-2.jpg",
       "manufacturer": "NZ Aerosport",
       "name": "JFX-2",
       "price": 179622,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -73,13 +65,11 @@
         "Рекомендованная загрузка от 0.75 до 1.6 фунтов на квадратный фут."
       ],
       "id": "4",
-      "img": [
-        "kraken.jpg"
-      ],
+      "img": "./img/catalog/Kraken.jpg",
       "manufacturer": "NZ Aerosport",
       "name": "Kraken",
       "price": 142459,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -95,13 +85,11 @@
         "Рекомендация инструктора или известного swoop пилота"
       ],
       "id": "5",
-      "img": [
-        "Leia.jpg"
-      ],
+      "img": "./img/catalog/Leia.jpg",
       "manufacturer": "NZ Aerosport",
       "name": "Leia",
       "price": 222979,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -111,13 +99,11 @@
         "Рекомендованная загрузка от 0.8 до 1.5 фунтов на квадратный фут."
       ],
       "id": "6",
-      "img": [
-        "Safire-3.jpg"
-      ],
+      "img": "./img/catalog/Safire-3.jpg",
       "manufacturer": "NZ Aerosport",
       "name": "Safire-3",
       "price": 148653,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -126,13 +112,11 @@
         "Размеры: 310, 330, 350, 370, 389 sq.ft."
       ],
       "id": "7",
-      "img": [
-        "A-2.jpg"
-      ],
+      "img": "./img/catalog/A-2.jpg",
       "manufacturer": "Aerodyne International",
       "name": "A-2",
       "price": 273239,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -142,17 +126,11 @@
         "Рекомендованная загрузка от 0.9 до 1.6 фунтов на квадратный фут."
       ],
       "id": "8",
-      "img": [
-        "Pilot.jpg",
-        "",
-        "",
-        "",
-        ""
-      ],
+      "img": "./img/catalog/Pilot.jpg",
       "manufacturer": "Aerodyne International",
       "name": "Pilot",
       "price": 148653,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -162,13 +140,11 @@
         "Рекомендованная загрузка от 0.9 до 1.5 фунтов на квадратный фут."
       ],
       "id": "9",
-      "img": [
-        "Pilot7.jpg"
-      ],
+      "img": "./img/catalog/Pilot7.jpg",
       "manufacturer": "Aerodyne International",
       "name": "Pilot7",
       "price": 148653,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -177,13 +153,11 @@
         "Размеры: 190, 210, 230, 250, 270, 290 sq.ft."
       ],
       "id": "10",
-      "img": [
-        "Solo.jpg"
-      ],
+      "img": "./img/catalog/Solo.jpg",
       "manufacturer": "Aerodyne International",
       "name": "Solo",
       "price": 133168,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -193,13 +167,11 @@
         "Рекомендованная загрузка от 0.9 до 1.6 фунтов на квадратный фут."
       ],
       "id": "11",
-      "img": [
-        "Triathlon.jpg"
-      ],
+      "img": "./img/catalog/Triathlon.jpg",
       "manufacturer": "Aerodyne International",
       "name": "Triathlon",
       "price": 141220,
-      "subcategory": ""
+      "subCategory": ""
     },
     {
       "category": "mainCanopies",
@@ -209,1957 +181,1290 @@
         "Рекомендованная загрузка от 1.3 до 2.2 фунтов на квадратный фут."
       ],
       "id": "12",
-      "img": [
-        "Zulu X.jpg"
-      ],
+      "img": "./img/catalog/Zulu X.jpg",
       "manufacturer": "Aerodyne International",
       "name": "Zulu X",
       "price": 154847,
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    },
-    {
-      "category": "",
-      "description": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "id": "",
-      "img": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "manufacturer": "",
-      "name": "",
-      "price": "",
-      "subcategory": ""
-    }
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Студенческий парашют компании Icarus Canopies. Гибридная конструкция с использованием материала F111 и ZP. Купол спроектирован с учетом жестких условий эксплуатации, характерных при процессе обучения.",
+        "Размеры: 189-209-239-259-279-299",
+        "Рекомендованная загрузка от 0.5 до 1.2 фунтов на квадратный фут."
+      ],
+      "id": "13",
+      "img": "./img/catalog/Equinox.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "Equinox",
+      "price": 136265,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Достойный конкурент таким куполам, как Leia и Valkyrie."
+      ],
+      "id": "14",
+      "img": "./img/catalog/GT-R.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "GT-R",
+      "price": 240322,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Новый купол компании Icarus Canopies. Целевая аудиторий начинающие парашютисты и wing suit пилоты.",
+        "Купол имеет гибридную конструкцию из ткани ZP и F-111, что снижает укладосный объем при высоких летных характеристиках. Кроме этого купол имеет ряд новых решений, выделяющих его среди одноклассников.",
+        "Доступна версия купола изготовленная полностью из ткани типа ZP.",
+        "Размеры: 99-109-119-129-139-149-169-189-209-229",
+        "Рекомендованная загрузка от 0.75 до 1.6 фунтов на квадратный фут."
+      ],
+      "id": "15",
+      "img": "./img/catalog/Om-7.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "Om-7",
+      "price": 148033,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "В данном куполе использовано несколько новых технологий, улучшающих аэродинамику крыла.",
+        "Размеры: 99-109-119-129-139-149-169-189-209-229+",
+        "Рекомендованная загрузка от 0.75 до 1.9 фунтов на квадратный фут."
+      ],
+      "id": "16",
+      "img": "./img/catalog/S-Fire.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "S-Fire",
+      "price": 157944,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Модель 2017 года. Современные средства разработки и новые технологии воплотились в TX2.",
+        "Размеры: 310-330-365",
+        "Рекомендованная загрузка от 0.67 до 1.61 фунтов на квадратный фут."
+      ],
+      "id": "17",
+      "img": "./img/catalog/TX2.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "TX2",
+      "price": 272530,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Новый 9-cell эллиптический купол класса high performance, который заменил Crossfire-2 - хит последних лет.",
+        "Размеры: 75-83-92-102-113-124-138-153-168",
+        "Рекомендованная загрузка от 1.4 до 2.4 фунтов на квадратный фут."
+      ],
+      "id": "18",
+     "img": "./img/catalog/X-Fire.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "X-Fire",
+      "price": 166615,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Купол для опытных пилотов с применением  технологии Cross Brace Tri-cell (косые нервюры). Требует высокого уровня пилотирования.",
+        "Размеры: 71-75-79-84-90-96-103-111",
+        "Рекомендованная загрузка от 1.8 до 2.4 фунтов на квадратный фут"
+      ],
+      "id": "19",
+     "img": "./img/catalog/Competition Velocity.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Competition Velocity",
+      "price": 183338,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Семисекционный купол адресованный пилотам wingsuit и тем, кому нужна максимальная площадь в миминальные объемы :) Купол изготовлен с применением современных облегченных тканей, что дает укдадочный объем на 2 размера меньше обычного 9-секционного купола из обычной ткани ZP. Купол оснащается стропами из Vectran или HMA, что обеспечивает сохранение регулировок в течении всего срока службы строп.",
+        "Размеры: 120-135-150-170-190",
+        "Рекомендованная загрузка от 0.75 до 1.4 фунтов на квадратный фут."
+      ],
+      "id": "20",
+     "img": "./img/catalog/Horizon.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Horizon",
+      "price": 153608,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Эллиптический дявятисекционник. Разработан на смену Stiletto.Требует высокого уровня пилотирования.",
+        "Размеры: 83-89-97-107-120-135-150",
+        "Рекомендованная загрузка от 1.4 до 2 фунтов на квадратный фут."
+      ],
+      "id": "21",
+     "img": "./img/catalog/Katana.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Katana",
+      "price": 172809,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Navigator был разработан специально для студентов и обладая хорошими летными характеристиками, дает возможность обучающимся подготовиться к пилотированию более быстрых современных парашютов.",
+        "Размеры: 200-220-240-260-280-300",
+        "Рекомендованная загрузка от 0.75 до 1.5 фунтов на квадратный фут."
+      ],
+      "id": "22",
+     "img": "./img/catalog/Navigator.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Navigator",
+      "price": 147414,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Девятисекционный, слабо-эллиптический купол. Изготовлен с применением двух видов ткани: ZP (верхняяя оболочка, крайние нервюры, стабилизаторы и слайдер) и F111(облегченная ткань, аналогичная используемой на запаске Optimum). Купол предназначен для Fun Jumpers.",
+        "Особенность данного купола в сравнение с однокласником той же фирмы Sabre2 - это уменьшенный вес и укладочный объем, более быстрое, но по прежнему мягкое и ровное раскрытие. Более пологая глиссада снижения. В развороте меньше дуга восстановления (recovery arc).",
+        "Внимание: Нижняя оболочка и внутренние нервюры только белого цвета.",
+        "Размеры: 107, 120, 135, 150, 170, 190, 210, 230 и 260",
+        "Рекомендованная загрузка от 1.0 до 1.5 фунтов на квадратный фут."
+      ],
+      "id": "23",
+     "img": "./img/catalog/Pulse.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Pulse",
+      "price": 161041,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Легкоэллиптический купол, продолжающий серию моделей Sabre 1 и 2. Улучшенный профиль, мининервюры в хвосте и новые материалы для строп. Изготовлен из ткани с нулевой воздухопроницаемостью.",
+        "Размеры: 89-97-107-120-135-150-170-190-210-230-260",
+        "Рекомендованная загрузка от 1 до 2 фунтов на квадратный фут."
+      ],
+      "id": "24",
+     "img": "./img/catalog/Sabre-3.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Sabre-3",
+      "price": 160421,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Купол изготовлен из двух видов ткани. Верхняя оболочка изготовлена из ткани с нулевой воздухопроницаемостью, нижняя, нервюры и стабилизаторы из ткани c малой воздухопроницаемостью F-111. Имеет хорошие характеристики, прост в управлении.",
+        "Размеры: 135-150-170-190-210-230",
+        "Рекомендованная загрузка от 0.75 до 1.3 фунтов на квадратный фут"
+      ],
+      "id": "25",
+     "img": "./img/catalog/Silhouette.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Silhouette",
+      "price": 165996,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Семисекционный купол широкого применения, полностью изготовленный из ткани с нулевой воздухопроницаемостью. Очень популярен среди начинающих парашютистов.",
+        "Размеры: 97-107-120-135-150-170-190-210-230",
+        "Рекомендованная загрузка от 0.75 до 1.6 фунтов на квадратный фут."
+      ],
+      "id": "26",
+     "img": "./img/catalog/Spectre.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Spectre",
+      "price": 154847,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Долгое время был самый популярным парашютом в классе эллиптических девятисекционных куполов, изготовленных из ткани с нулевой воздухопроницаемостью.",
+        "Размеры: 89-97-107-120-135-150-170-190",
+        "Рекомендованная загрузка от 0.75 до 1.5 фунтов на квадратный фут"
+      ],
+      "id": "27",
+     "img": "./img/catalog/Stiletto.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Stiletto",
+      "price": 171570,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Семисекционный купол. Хорошие раскрытия и мощная подушка делает этот купол интересным для широкого круга задач от купола для начинающего парашютиста, до пилота вингсьта или купольщика. Для купольной акробатики (CRW) существует отдельная версия.",
+        "Размеры: 97-107-120-135-150-170-190-210-230",
+        "Рекомендованная загрузка от 1.1 до 1.8 фунтов на квадратный фут."
+      ],
+      "id": "28",
+     "img": "./img/catalog/Storm.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Storm",
+      "price": 154847,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "7-cell купол компании PD, построенный на базе соревновательного 9-cell купола Peregrine. В отличии от Peregrine купол можно использовать при обычных прыжках на терминальных скоростях раскрытия.  Требует высокого уровня пилотирования.",
+        "Также доступна версия Hybrid +385$",
+        "Размеры: 67-71-75-79-84-90-96-103",
+        "Рекомендованная загрузка от 1.8 до 2.8 фунтов на квадратный фут"
+      ],
+      "id": "29",
+     "img": "./img/catalog/Valkyrie.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Valkyrie",
+      "price": 216785,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Точностной купол от самого крупного приоизводителя спортивных парашютов.",
+        "Размеры: 205-215-225-235-245-255-265-275-285-295-305",
+        "Рекомендованная загрузка от 0,5 до 0,9 фунтов на квадратный фут."
+      ],
+      "id": "30",
+     "img": "./img/catalog/Zero.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Zero",
+      "price": 173428,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "9-ти секционный прямоугольный купол. Верхняя оболочка из ткани типа ZP, нижняя из ткани типа F-111 (150-190sq.ft.) и полностью из ткани типа F-111 (210-265sq.ft.), стропы микролайн-725. Комплектуется мягкими коннекторами. Слайдер куполообразный с коллапсом. Купол предназначен для обучения, а также прыжков на ограниченные площадки.",
+        "Размеры: 150, 170, 190, 210, 235, 265, 290",
+        "Цена варьируется от 100000 до 128500 рублей в зависимости от размера!"
+      ],
+      "id": "31",
+     "img": "./img/catalog/Dolphine-2.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Dolphine-2",
+      "price": 100000,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Модель 2020 года, уже успевшая стать популярной. 7-ми секционный прямоугольный купол для точности приземления. Изготовлен из ткани типа F-111, стропы - Дакрон. Комплектуется мягкими коннекторами.",
+        "Размеры: 252, 272, 282, 292, 302 sq. ft.",
+        "Цена варьируется от 130000 до 143000 рублей в зависимости от размера!"
+      ],
+      "id": "32",
+     "img": "./img/catalog/Focus.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Focus",
+      "price": 97500,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Парашют для купольной акробатики. Изготовлен из ткани с нулевой воздухопроницаемостью.",
+        "Размеры: 85,95, 105, 110, 115, 120, 135, 150, 170 sq.ft.",
+        "Цена варьируется от 105000 до 114000  рублей в зависимости от размера!"
+      ],
+      "id": "33",
+     "img": "./img/catalog/Segment CRW.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Segment CRW",
+      "price": 105000,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Эллиптический купол для тандем-прыжков. Изготовлен из ткани с нулевой воздухопроницаемостью. Мягкое открытие и хорошие летные характеристики.",
+        "Размеры: 320, 340, 380, 400 sq.ft.",
+        "Цена варьируется от 200000 до 210000  рублей в зависимости от размера!"
+      ],
+      "id": "34",
+     "img": "./img/catalog/Stealth-TANDEM.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Stealth-TANDEM",
+      "price": 200000,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Представляем Вашему вниманию новый 9-тисекционный переходной купол Ultimate. Отличный выбор для парашютистов среднего уровня. Этот купол порадует парашютиста на всех этапах его использования.",
+        "Размеры: 100, 110, 120, 135, 150, 170, 190 sq.ft.",
+        "Цена варьируется от 94000 до 100000 рублей в зависимости от размера!"
+      ],
+      "id": "35",
+     "img": "./img/catalog/Ultimate.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Ultimate",
+      "price": 100000,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Коммодор- современный 9-ти ячеечный студенческий парашют-крыло для парашютистов начального уровня.",
+        "Цена зависит от размера купола! Размер нужно указать в комментариях к заказу.",
+        "В конструкции парашюта использованы комбинированные материалы – все верхние панели и нервюры выполнены из ткани нулевой воздухопроницаемости, а остальные элементы – из полупроницаемой ткани F-111.Это значительно повышает ресурс купола и не лишает его удобства укладки.",
+        "«Коммодор» может безопасно эксплуатироваться на загрузках в диапазоне 0.6-1.25 фунт/кв.фут. Рекомендуемый для обучения диапазон 0.65-0.9 фунт/кв.фут.",
+        "Парашют комплектуется стропами типа Dacron-525, основное звено управления выполнено из стропы типа Dacron-1000 и изначально подвязано.",
+        "Размеры: 190, 210, 230, 250, 270 и 290 кв. футов.",
+        "Рекомендованная загрузка 0.6-1.25 фунт/кв.фут."
+      ],
+      "id": "36",
+     "img": "./img/catalog/Commodore.jpg",
+      "manufacturer": "Skylark",
+      "name": "Commodore",
+      "price": 102199,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Магеллан - современный 9-ти ячеечный основной парашют-крыло популярного среднего класса, украинской фирмы SkyLark. Рекомендуется пилотам с обычным уровнем подготовки.",
+        "Размеры: 100, 110, 120, 130, 140, 150, 160, 170 и 190 кв. футов.",
+        "Рекомендуемый диапазон загрузок «Магеллана» составляет 0.95-1.85 фунт/кв.фут. Наиболее оптимальный диапазон 1.2-1.6 фунт/кв.фут."
+      ],
+      "id": "37",
+     "img": "./img/catalog/Magellan.jpg",
+      "manufacturer": "Skylark",
+      "name": "Magellan",
+      "price": 102199,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Magellan EVO – наиболее универсальный купол, подходящий как начинающим скайдайверам, так и продвинутым пилотам-свуперам. Это самая рациональная на сегодняшний день платформа для 9-ти ячеечного парашюта на каждый день.",
+        "Магеллан получил самые мягкие, по направлению открытия без большой потери высоты. Не будет вопросов и у самых требовательных пилотов, так как он имеет легкие ПСК, послушные ЗСК и ярко выраженную подушку. EVO-технологии также позволили Магеллану оставаться на высоте в ветреных погодных условиях, при дальней выброске и при желании показать отличный свуп. Любителям последнего рекомендуется загрузка не более 2,3 фунта на кв.фут."
+      ],
+      "id": "38",
+     "img": "./img/catalog/Magellan EVO.jpg",
+      "manufacturer": "Skylark",
+      "name": "Magellan EVO",
+      "price": 111490,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Одиссей - современный 9-ти ячеечный основной парашют-крыло класса «high performance», украинской фирмы SkyLark. Главное назначение «Одиссея» - свуп и все, что с ним связано: глубокие карвы, работа на мишень, «high jump». Рекомендуется для опытных пилотов.",
+        "Рекомендуемые загрузки «Одиссея» находятся в пределах 1,3-2,0 фунт/кв.фут. Наиболее оптимальный диапазон 1.5-1.8 фунт/кв.фут.",
+        "«Одиссей» изготавливается из парашютной ткани нулевой воздухопроницаемости.",
+        "Стропы- Vectran-500 или НМА-450.",
+        "Основное звено управления выполнено из стропы типа Vectran-1000 или HMA-950, имеет настроенную для свупа длину.",
+        "Возможна опционная установка RDS слайдера.",
+        "Размеры: 85, 90, 95, 105,110, 115, 120, 130, 140, 150 кв. футов.",
+        "Рекомендуемые загрузки «Одиссея» находятся в пределах 1.3-2.0 фунт/кв.фут. Наиболее оптимальный диапазон 1.5-1.8 фунт/кв.фут."
+      ],
+      "id": "39",
+     "img": "./img/catalog/Odyssey.jpg",
+      "manufacturer": "Skylark",
+      "name": "Odyssey",
+      "price": 102199,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Odyssey EVO – лучший выбор для продвинутых пилотов-свуперов, диапазон загрузок которых не ограничивается цифрой 2,5 фунта на кв.фут., но которые ценят хорошие открытия и пологую глиссаду после него.",
+        "Одиссей имеет лучший набор характеристик из свуперского арсенала: увеличенная дуга восстановления, легкие ПСК, отзывчивые ЗСК и хорошие клеванты в конце дистанции. На примере Одиссея мы показали, как инновационные Эво-технологии подняли уровень возможностей не диагональных схем до уровня ультра хай-перформансе техники!"
+      ],
+      "id": "40",
+     "img": "./img/catalog/Odyssey EVO.jpg",
+      "manufacturer": "Skylark",
+      "name": "Odyssey EVO",
+      "price": 114587,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Купол для Swoop-а. Только для опытных пилотов, тех кому нужна скрость и дальнось.",
+        "Сирокко - новейший купол этого класса на рынке, уже успел зарекомендовать себя в международных соревнованиях.",
+        "По выбору заказчика купол комплектуется:",
+        "- Cтропы HMA-350 или HMA-450",
+        "- RDS или простой слайдер",
+        "Размеры: 64, 68, 72, 77, 82, 87, 93, 99, 106, 114, 124 sq.ft.",
+        "Рекомендованная загрузка от 2.2 до 2.5 фунтов на квадратный фут."
+      ],
+      "id": "41",
+     "img": "./img/catalog/Scirocco.jpg",
+      "manufacturer": "Skylark",
+      "name": "Scirocco",
+      "price": 117683,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Шкипер - современный 7-ми секционный  основной парашют-крыло универсального назначения, украинской фирмы SkyLark.",
+        "Цена зависит от размера купола!",
+        "Размеры: 110, 120, 130, 140, 150, 160, 170 и 190 кв. футов.",
+        "Рекомендуемые загрузки «Шкипера» лежат в диапазоне 1.1-1.7 фунт/кв.фут. Наиболее оптимальный диапазон 1.3-1.5 фунт/кв.фут."
+      ],
+      "id": "42",
+     "img": "./img/catalog/Skipper.jpg",
+      "manufacturer": "Skylark",
+      "name": "Skipper",
+      "price": 102199,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Шкипер EVO – парашют с уникальным сочетанием летных характеристик в своем классе станет прекрасным выбором для любителей винг-полетов.",
+        "Благодаря применению EVO-технологий шкипер получил мягкие, но в тоже время энергичные открытия с минимальной потерей высоты. Увеличенное аэродинамическое качество парашюта данной схемы даст возможность дойти до зоны приземления в случае проблем с выброской или резко изменившихся погодных условиях.",
+        "Шкипер обладает широким диапазон загрузок 1.0-2.0 фунта на кв. фут. и на малых загрузках поможет его обладателю безопасно освоить базовые навыки пилотирования. В среднем диапазоне загрузок пилот шкипера сможет оценить прекрасную работу облегченных ПСК при разгоне. Любителей же свупа и больших загрузок не оставят равнодушными уверенные ЗСК Шкипера с увеличенным диапазоном работы!"
+      ],
+      "id": "43",
+     "img": "./img/catalog/Skipper EVO.jpg",
+      "manufacturer": "Skylark",
+      "name": "Skipper EVO",
+      "price": 108393,
+      "subCategory": ""
+    },
+    {
+      "category": "mainCanopies",
+      "description": [
+        "Скайдайв версия base купола IBEX из облегченной ткани с малым укладочным объемом. Предназначен для пилотов wingsuit. У купола более пологая глиссада, чем у  IBEX. "
+      ],
+      "id": "44",
+     "img": "./img/catalog/Epicene.jpg",
+      "manufacturer": "Squirrel",
+      "name": "Epicene",
+      "price": 148653,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Размеры: 108, 119, 130, 146, 162, 189, 216, 255, 300 кв. футов.",
+        "Максисальная загрузка  2 фунт/кв.фут.",
+        "Цена варьируется от 1053 USD до 1194 USD в зависимости от размера!"
+      ],
+      "id": "45",
+     "img": "./img/catalog/Standard.jpg",
+      "manufacturer": "Skylark",
+      "name": "Standard",
+      "price": 65221,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Купол с применением более тонкой ткани. Укладочным объем на размер меньше, чем укладочный объем Standard из обычной ткани.",
+        "Размеры: 108, 119, 130, 146, 162, 189, 216, 255, 300 кв. футов.",
+        "Максисальная загрузка  2 фунт/кв.фут.",
+        "Цена варьируется от 1203 USD до 1344 USD в зависимости от размера!"
+      ],
+      "id": "46",
+     "img": "./img/catalog/Standard-S.jpg",
+      "manufacturer": "Skylark",
+      "name": "Standard-S",
+      "price": 74512,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Запасной парашют компании Aerodine International. Широкий выбор размеров.",
+        "Размеры: 99, 110, 120, 135, 150, 160, 175, 190, 220, 250 sq.ft."
+      ],
+      "id": "47",
+     "img": "./img/catalog/Smart.jpg",
+      "manufacturer": "Aerodyne International",
+      "name": "Smart",
+      "price": 89811,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Запасной парашют с малым укладочным объемом от компании Aerodyne.",
+        "Сохранив все достоинства модели Smart, новый купол приобрел уменьшенный укладочный объем, что позволяет положить в ваш ранец зп  на размер больше!",
+        "Размеры: 99, 110, 120, 135, 150, 160, 175, 190, 220, 250 sq.ft."
+      ],
+      "id": "48",
+     "img": "./img/catalog/Smart LPV.jpg",
+      "manufacturer": "Aerodyne International",
+      "name": "Smart LPV",
+      "price": 99102,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Запаска от именитого европейского производителя. Это современный запасной парашют с хорошими летными характеристиками и очень малым укладочным объемом (без применения облегченной ткани), что позволяет ему конкурировать с более дорогим PD Optimum.",
+        "Размеры: 99, 109, 119, 122, 129, 139, 149, 154, 169, 189, 219, 239, 259, 279 sq.ft.",
+        "Цена зависит от размера купола!"
+      ],
+      "id": "49",
+     "img": "./img/catalog/Icarus Reserve.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "Icarus Reserve",
+      "price": 87953,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Icarus NANO - новейшая разработка фирмы Icarus Canopies. Революционно маленький укладочный объем - на 30% ниже, чем у обычных запасок. При таком же укладочном объеме, как у конкурентов, запасной парашют NANO сделан из более плотной ткани, поэтому более износостоек и безопасен. При этом данный купол имеет те же прекрасные открытия, летные и посадочные характеристики, как у Icarus Reserve.",
+        "Запасной парашют NANO уже в продаже! Доступен в размерах от 99 до 253 квадратных метров."
+      ],
+      "id": "50",
+     "img": "./img/catalog/Nano.jpg",
+      "manufacturer": "Icarus Canopies",
+      "name": "Nano",
+      "price": 105296,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Надежный и многократно проверенный 7 секционный запасной купол от Performance Design.",
+        "Размеры: 106, 113, 126, 143, 160, 176, 193, 218, 235, 253, 281 sq. ft."
+      ],
+      "id": "51",
+     "img": "./img/catalog/PD-Reserve.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "PD-Reserve",
+      "price": 99102,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Запаска выпущенная на рынок в 2007 году фирмой Performance Designs. Основное преимущество перед хорошо себя зарекомендовавшей PD-Reserve, это маленький укладочный объем. В среднем укладочный объем Optimum на размер меньше укладочного объема PD-Reserve.",
+        "Размеры: 99, 106, 113, 126, 143, 160, 176, 193, 218, 235, 253, sq. ft."
+      ],
+      "id": "52",
+     "img": "./img/catalog/Optimum.jpg",
+      "manufacturer": "Performance Designs",
+      "name": "Optimum",
+      "price": 112728,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Новая запаска из обычной ткани F111, заменившая Space небольших размеров.",
+        "Размеры: 100, 110, 120, 135, 150, 170",
+        "Цена варьируется от 67500 до 72000 рублей в зависимости от размера купола."
+      ],
+      "id": "53",
+     "img": "./img/catalog/Smile.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Smile",
+      "price": 67500,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Запасной парашют компании ParAAvis.",
+        "Размеры: 195, 225, 255 sq. ft.",
+        "Цена варьируется от 80000 до 95000 рублей в зависимости от размера купола."
+      ],
+      "id": "54",
+     "img": "./img/catalog/Space.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Space",
+      "price": 80000,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Купол выполнен из облегченной ткани с низкой воздухопроницаемостью типа PN9, верхняя оболочка на 30% состоит из ткани с нулевой воздухопроницаемостью типа ZP. Сочетание оригинальной конструкции воздухозаборников и профиля крыла дает с одной стороны небольшой укладочный объем, с другой стороны - отличные летные характеристики.",
+        "Размеры: 100, 110, 120, 135, 150, 170, 190, 210, 230, 260.",
+        "Цена варьируется от 90000 до 109000 рублей в зависимости от размера купола."
+      ],
+      "id": "55",
+     "img": "./img/catalog/Space-2.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Space-2",
+      "price": 90000,
+      "subCategory": ""
+    },
+    {
+      "category": "reserveCanopies",
+      "description": [
+        "Запасной парашют чешской компании MarS, производтеля страхующего прибора Mars M2.",
+        "Купол изготовлен в соответствии с требованиями стандарта TSO C 23d",
+        "Размеры: 110,  130, 150, 175, 210, 260 и 370 (tandem) sq.ft."
+      ],
+      "id": "57",
+     "img": "./img/catalog/Witty Plus.jpg",
+      "manufacturer": "Mars",
+      "name": "Witty Plus",
+      "price": 53113,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "В базой комплектации ранца:",
+        "RSL (транзит), дефлекторы СК, кольца на бедрах (кольца на груди - опция), нержавеющее железо, FF подушка медузы или кожанный мячик, магниты в клапанах закрывающих СК, вышивка на центральном клапане, вентилируемая спинка Spacer и стророрез."
+      ],
+      "id": "58",
+     "img": "./img/catalog/Icon A.jpg",
+      "manufacturer": "Aerodyne International",
+      "name": "Icon A",
+      "price": 196965,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Новая версия популярного ранца Icon с новым дизайном. Кроме нового дизайна произошли изменения в конструкции, делающие ранец более удобным.",
+        "В базой комплектации ранца:",
+        "RSL (транзит), дефлекторы СК, кольца на бедрах (кольца на груди - опция), нержавеющее железо, FF подушка медузы или кожанный мячик, магниты в клапанах закрывающих СК, V вышивка на центральном клапане, вентилируемая спинка AeroFit, подушка запаски, контрастная строчка, свуп перемычка belly band и стророрез."
+      ],
+      "id": "59",
+     "img": "./img/catalog/Icon V.jpg",
+      "manufacturer": "Aerodyne International",
+      "name": "Icon V",
+      "price": 227934,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Javelin Odyssey, теперь с возможностью установки skyhook!"
+      ],
+      "id": "60",
+     "img": "./img/catalog/Javelin Odyssey.jpg",
+      "manufacturer": "Sun Path",
+      "name": "Javelin Odyssey",
+      "price": 175906,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Relative Workshop (RWS) уже не одно десятилетие находится среди фирм лидеров по производству парашютных ранцев. Произведено более 50 000 ранцев серии Vector. Трехколечная система отцепки основного парашюта и система ввода основного парашюта посредством мягкой медузы разработаны основателем RWS Билом Бутом (Bill Booth), а также системы ввода запасного парашюта RSL (транзит) и SkyHook. С 2015 года в базу входит мягкая спинка delux и магниты в плечевых клапанах."
+      ],
+      "id": "61",
+     "img": "./img/catalog/Vector III.jpg",
+      "manufacturer": "UPT",
+      "name": "Vector III",
+      "price": 179622,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Mirage - один из самых популярных ранцев в США."
+      ],
+      "id": "62",
+     "img": "./img/catalog/Mirage G3.jpg",
+      "manufacturer": "Mirage Systems",
+      "name": "Mirage G3",
+      "price": 151750,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Последняя модель одного из самых популярных ранцев в США."
+      ],
+      "id": "63",
+     "img": "./img/catalog/Mirage G4.jpg",
+      "manufacturer": "Mirage Systems",
+      "name": "Mirage G4",
+      "price": 157944,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Ранец разработанный конструктором популярного ранца Javelin. Современный дизайн и новая подвесная система. Хорошее соотношение цены и качества. Подходит для всех видов skydiving-а."
+      ],
+      "id": "64",
+     "img": "./img/catalog/Wings.jpg",
+      "manufacturer": "Sunrise Rigging",
+      "name": "Wings",
+      "price": 128832,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Имеет различные модификации в зависимости от назначения и укладочного объема основного и запасного парашютов. Оригинальный дизайн, исключение случайного открытия клапанов, возможность установки приборов ППК-У и CYPRES. Расцветка снаряжения подбирается согласно пожеланиям заказчика. Все подвесные системы изготавливаются согласно антропометрическим данным, представляемым заказчиком. В новой версии ранца стеганая спинка, двойная лента грудной перемычки входит в базовую стоимость. Появились дополнительные опции: зачековка строп управления на шпильках, предохранительный туннель троса КЗУ на свободных концах, декоративная вышивка, комплектация WINGS FLY."
+      ],
+      "id": "65",
+     "img": "./img/catalog/Spirit New.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Spirit New",
+      "price": 83000,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Главная особенность Spirit Vario - это контейнер запасного парашюта. Вытяжной парашют ПЗ имеет жесткую шляпу и укладывается под два клапана, что позволяет ему быстрее выпрыгивать (более требователен к аккуратности укладки). В базовую комплектацию входят кольца на бедрах, коллапс вытяжного парашюта, мягкая спинка."
+      ],
+      "id": "66",
+     "img": "./img/catalog/Spirit Vario.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Spirit Vario",
+      "price": 84000,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Ранец для прыжков с пассажиром. Базовый комплект состоит из ранца и подвесной системы пассажира. Возможно комплектование: ПЗ Space-290/336, ОП Stealth-340/400."
+      ],
+      "id": "67",
+     "img": "./img/catalog/Spirit Vario - Tandem.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Spirit Vario - Tandem",
+      "price": 199000,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Ранец для обучения по программам AFF/Static-Line. Дополнительные опции см. в заказной форме."
+      ],
+      "id": "68",
+     "img": "./img/catalog/Spirit-Student.jpg",
+      "manufacturer": "ParAAvis",
+      "name": "Spirit-Student",
+      "price": 115000,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "В 2008 году, после более чем двух лет испытаний и опытной эксплуатации, компания SWS запустила в серийное производство ранец Fire.",
+        "В конструкции ранца использованы самые современные конструктивные элементы, что позволило создать очень удобный, надежный, долговечный, а главное - безопасный ранец.",
+        "В базовую комплектацию входят:",
+        "ранец с подвесной системой с кольцами на бедрах",
+        "клеванты запасного парашюта",
+        "свободные концы ОП с клевантами",
+        "медуза ЗП с камерой и стреньгой",
+        "медуза ОП с камерой и стреньгой",
+        "подушка отцепки",
+        "привод запасного парашюта (кольцо или подушка)"
+      ],
+      "id": "69",
+     "img": "./img/catalog/Fire.jpg",
+      "manufacturer": "SWS",
+      "name": "Fire",
+      "price": 77423,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Обновлённый Fire"
+      ],
+      "id": "70",
+     "img": "./img/catalog/Fire-2.jpg",
+      "manufacturer": "SWS",
+      "name": "Fire-2",
+      "price": 89811,
+      "subCategory": ""
+    },
+    {
+      "category": "containers",
+      "description": [
+        "Аналог ранца ранца Vector. В отличии от оригинальной модели Vector, у Real-X в базовой комплектации  отсутствуют магниты в плечевых клапанах и SkyHook среди опций. Другая конструкция подвески с возможностью установить 4 кольца."
+      ],
+      "id": "71",
+     "img": "./img/catalog/Real-X.jpg",
+      "manufacturer": "Mars",
+      "name": "Real-X",
+      "price": 71023,
+      "subCategory": ""
+    },
+    {
+      "category": "aad",
+      "description": [
+        "Vigil Cuatro - модель заменившая версииVigil 2+ и  Xtreme.",
+        "Режимы прибора:",
+        "Pro",
+        "Xtreme (swoop режим)",
+        "Student",
+        "Tandem",
+        "Дисплей поддерживающий разные языки.",
+        "Тонкий, эргономичный прочный алюминивый корпус.",
+        "Отсутствие обязательного платного регламента.",
+        "Срок службы прибора 20 лет. Срок работы батареи до 10 лет.",
+        "В дополнение к основной задаче Vigil работает как электронный журнал Ваших прыжков, запоминая время свободного падения, общее время свободного падения, максимальную скорость, количество прыжков и все эти данные можно перенести в Ваш компьютер через инфракрасный коммуникационный порт.",
+        "Прибор водонепроницаемый и при попадании в воду не требует обязательной замены фильтра, как у аналогичных приборов."
+      ],
+      "id": "72",
+     "img": "./img/catalog/Vigil Cuatro.jpg",
+      "manufacturer": "Vigil",
+      "name": "Vigil Cuatro",
+      "price": 61141,
+      "subCategory": ""
+    },
+    {
+      "category": "aad",
+      "description": [
+        "M2 multi - новая версия завоевавшего популярность прибора m2. Теперь в одном приборе доступно четыре режима: STUDENT, INTERMEDIATE, PROFESSIONAL, CANOPY PILOTING и TANDEM. Прибор не требует регламентов и замены батареи в течение всего срока эксплуатации. Срок эксплуатации 15 лет или 15 000 прыжков. Прибор водонепроницаем. История прыжков сохраняется в памяти прибора.",
+        "STUDENT - высота срабатывания 330 м при скорости более 13 м/с",
+        "INTERMEDIATE - высота срабатывания 330 м при скорости более 20 м/с",
+        "CANOPY PILOTING - высота срабатывания 270 м при скорости более 45 м/с",
+        "PROFESSIONAL - высота срабатывания 270 м при скорости более 35 м/с",
+        "TANDEM - высота срабатывания 610 м при скорости более 35 м/"
+      ],
+      "id": "73",
+     "img": "./img/catalog/M2 multi.jpg",
+      "manufacturer": "Mars",
+      "name": "M2 multi",
+      "price": 49345,
+      "subCategory": ""
+    },
+    {
+      "category": "aad",
+      "description": [
+        "CYPRES. Кстати, правильно говорить именно сайПРЕс, а не сайПЕРс. Так как это сокращение Cybernetic Parachute Release System. ",
+        "Конкуренция на рынке страхующих приборов (AAD) подстегнула компанию AIRTEC к созданию нового подвида своего знаменитого прибора CYPRES 2. Теперь на нём возможно выбирать режим работы в полевых условиях, а не на заводе. Как и на всех остальных приборах конкурентов. Сами режимы работы остались без изменений.",
+        "expert (срабатывает на 225 метрах при 35м/с)",
+        "student (срабатывает на 300 метрах при 13м/с или на 225 метрах при 35м/с)",
+        "tandem (срабатывает на 580 метрах при 35м/с)",
+        "speed (срабатывает на 225 метрах при 46м/с)",
+        "Случайное переключение режимов практически исключено. Текущий режим всегда отображается на табло.",
+        "Польза очевидна для владельцев арендных систем. Для рядовых пользователей польза заключается в лёгкой продаже б/у прибора. Однако потребуется небольшой дополнительный контроль за включением нужного режима.",
+        "Срок службы приборов CYPRES 2 выпущенных после 1 января 2017 года - 15,5 лет. Техническое обслуживание на заводе-изготовителе РЕКОМЕНДОВАНО, но НЕ ОБЯЗАТЕЛЬНО через 5 и 10 лет после даты изготовления."
+      ],
+      "id": "74",
+     "img": "./img/catalog/CYPRES 2 CHANGEABLE MODE.jpg",
+      "manufacturer": "Cypres",
+      "name": "CYPRES 2 CHANGEABLE MODE",
+      "price": 87300,
+      "subCategory": ""
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Популярный в США высотомер фирмы Alti-2, производителя звукового высотомера-компьютера Neptune."
+      ],
+      "id": "75",
+     "img": "./img/catalog/Altimaster Galaxy III.jpg",
+      "manufacturer": "Alti-2",
+      "name": "Altimaster Galaxy III",
+      "price": 12388,
+      "subCategory": "analogAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Цифровой высотомер Atlas Alti-2, заменивший Neptune 3.",
+        "Показывает высоту с точностью до метра. Пищит в свободном падении и под куполом на предварительно установленных высотах.",
+        "Высокая точность и водонепоницаемость позволяет использовать высотомер в купольном пилотирование.",
+        "Подсветка для ночных прыжков.",
+        "Время, температура, высота над уровнем моря и т.д.",
+        "Журнал прыжков с подробными записями о высотах отделения, раскрытия, времени в свободном падении и под куполом, средней и максимальной скорости и т.д..."
+      ],
+      "id": "76",
+     "img": "./img/catalog/Atlas.jpg",
+      "manufacturer": "Alti-2",
+      "name": "Atlas",
+      "price": 27872,
+      "subCategory": "digitalAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Цвет корпусов высотомерров на складе - черный. Цвета циферблата: белый и черный (фосфорецирующие метки и стрелка, для ночных прыжков)."
+      ],
+      "id": "77",
+     "img": "./img/catalog/Barigo Altimeter 4000.jpg",
+      "manufacturer": "Barigo",
+      "name": "Barigo Altimeter 4000",
+      "price": 9264,
+      "subCategory": "analogAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Новый высотомер немецкой фирмы Barigo. Цвет циферблата черный. Два типа крепления. Шкала на 5000 метров."
+      ],
+      "id": "78",
+     "img": "./img/catalog/Barigo Altimeter 5000.jpg",
+      "manufacturer": "Barigo",
+      "name": "Barigo Altimeter 5000",
+      "price": 10190,
+      "subCategory": "analogAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Модель с циферблатом до 6000 м."
+      ],
+      "id": "79",
+     "img": "./img/catalog/Barigo Altimeter 6000.jpg",
+      "manufacturer": "Barigo",
+      "name": "Barigo Altimeter 6000",
+      "price": 9881,
+      "subCategory": "analogAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Altitrack - аналоговый дисплей с цифровой точностью!",
+        "На первый взгяд прибор выглядит, как обычный аналоговый высотомер, но это современный free-fall компьютер с удобным интерфесом  и множеством функций.  Логбук на 19.999 прыжков. 15 мин. подробной записи каждого прыжка от момента отделения, до приземления. 6,5 часов памяти недавно сделанных прыжков. Возможность подключения к PC через USB кабель."
+      ],
+      "id": "80",
+     "img": "./img/catalog/Altitrack.jpg",
+      "manufacturer": "Larsen & Brusgaard",
+      "name": "Altitrack",
+      "price": 22233,
+      "subCategory": "digitalAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Цифровой альтиметр для военных. Металлический корпус.  Большой LCD индикатор. Подсветка на несколько часов для ночных (вечерних) прыжков. Прост и удобен для включения и установки высот как на земле, так и на борту ЛА. Выбор метровой или футовой системы высот. Шаг установки высот 10 футов или 5 метров. Встроенные часы. Логбук до 200 прыжков. Отображает информацию о прыжке: высота отделения, высота раскрытия, время свободного падения, максимальная скорость в свободном падении, максимальная скорость под куполом."
+      ],
+      "id": "81",
+     "img": "./img/catalog/Ares II.jpg",
+      "manufacturer": "Larsen & Brusgaard",
+      "name": "Ares II",
+      "price": 22233,
+      "subCategory": "digitalAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Тонкий, эргономичный корпус",
+        "Размер 56 x 41 x 11 мм.",
+        "Простой интуитивный интерфейс",
+        "3 настраиваемые высоты в режиме падения",
+        "Настройка громкости сигнала",
+        "3 настраиваемые высоты в режиме пилотирования",
+        "Возможность создания 4х различных профилей сигналов",
+        "Настройка в метрах или футах",
+        "Долгий срок службы батарей"
+      ],
+      "id": "82",
+     "img": "./img/catalog/Optima 2.jpg",
+      "manufacturer": "Larsen & Brusgaard",
+      "name": "Optima 2",
+      "price": 13587,
+      "subCategory": "soundAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Новая версия сингнализатора выстоы - Protrack II. Он подходит для опытных и начинающих спортсменов, для соло и групповых прыжков, в том числек биг-вэи, вингсьют.",
+        "ProtrackII это:",
+        "4 сигнала в наборе высоты;",
+        "4 сигнала в свободном падении;",
+        "4 сигнала под куполом",
+        "постоянно хранит детальную информацию о крайних 200-300 прыжках (дата, номер прыжка, высота отделения, высота открытия, время свободного падения и пр.);",
+        "оснащён портом MicroUSB для взаимодействия с девайсами (требуется приобретение специального программного обеспечения);",
+        "может быть выключен полностью или установлен экономный режим расходования батареи;",
+        "корпус прибора эргономичный и компактный (64х44х13 мм, вес 37 г)."
+      ],
+      "id": "83",
+     "img": "./img/catalog/ProTrack II.jpg",
+      "manufacturer": "Larsen & Brusgaard",
+      "name": "ProTrack II",
+      "price": 15749,
+      "subCategory": "soundAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Все функции Opima 2 c дополнительным 4-ым сигналом в свободном падении.",
+        "Кроме этого, между первым и вторым фрифол сигналами, будет пульсирующий сигнал через каждые 0.5 сек."
+      ],
+      "id": "84",
+     "img": "./img/catalog/Quattro.jpg",
+      "manufacturer": "Larsen & Brusgaard",
+      "name": "Quattro",
+      "price": 13587,
+      "subCategory": "soundAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Новый дизайн, меньше по толщине и высоте. Прочное прорезиненное покрытие. Улучшенный экран и кнопки. Эргономичный, удобный, загнутый дизайн. Установка трех высот сигнализирования, разные пульсирующие сигналы для 1-ого и 2-ого предупреждения. 3-е предупреждение - громкая сирена. Прост в активации на земле и на борту ЛА. Шаг установки высот 500 футов Новое более защищенное и универсальное крепление"
+      ],
+      "id": "85",
+     "img": "./img/catalog/Solo 2.jpg",
+      "manufacturer": "Larsen & Brusgaard",
+      "name": "Solo 2",
+      "price": 11117,
+      "subCategory": "soundAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Большой LCD индикатор. Подсветка на несколько часов для ночных (вечерних) прыжков. Прост и удобен для включения и установки высот как на земле, так и на борту ЛА. Выбор метровой или футовой системы высот. Шаг установки высот 10 футов или 5 метров. Встроенные часы. Логбук до 200 прыжков. Отображает информацию о прыжке: высота отделения, высота раскрытия, время свободного падения, максимальная скорость в свободном падении, максимальная скорость под куполом."
+      ],
+      "id": "86",
+     "img": "./img/catalog/Viso 2+.jpg",
+      "manufacturer": "Larsen & Brusgaard",
+      "name": "Viso 2+",
+      "price": 14205,
+      "subCategory": "digitalAltimeter"
+    },
+    {
+      "category": "altimeters",
+      "description": [
+        "Ударопрочный корпус из анодированного авиационного алюминия.",
+        "Все движущиеся составные части выполнены из нержавеющей стали или никилиевого сплава.",
+        "Два типа крепления: эластичная лента на руку или с кольцом на пальцы.",
+        "Доступны в следующих цветах: черный, серебряный, голубой, красный, фиолетовый, золотой."
+      ],
+      "id": "87",
+     "img": "./img/catalog/Sapphire Professional.jpg",
+      "manufacturer": "Robnik Altimeters",
+      "name": "Sapphire Professional",
+      "price": 9264,
+      "subCategory": "analogAltimeter"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Новая версия шлема Revolve. Изменен дизайн и улучшена конструкция."
+      ],
+      "id": "88",
+     "img": "./img/catalog/AERO Full Face Helmet.jpg",
+      "manufacturer": "BoneHead Composites",
+      "name": "AERO Full Face Helmet",
+      "price": 27872,
+      "subCategory": "closeHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Шлем аналогичный Flat Top Pro, но с более узкой верхней площадкой. Стандартный цвет - карбон. Так же возможны другие цвета (+30$)..."
+      ],
+      "id": "89",
+     "img": "./img/catalog/BoneHead Flat Top Narrow.jpg",
+      "manufacturer": "BoneHead Composites",
+      "name": "BoneHead Flat Top Narrow",
+      "price": 45835,
+      "subCategory": "cameramanHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Шлем фирмы BoneHead Composites для профессиональных видеооператоров. Широкая верхняя платформа позволяет разместить на ней более одной камеры. А так же возможна быстрая установка фотоаппарата на фронтальной части шлема. Шлем имеет оригинальную систему фиксации на голове. Стандартный цвет - карбон. Так же возможны другие цвета (+30$)..."
+      ],
+      "id": "90",
+     "img": "./img/catalog/BoneHead Flat Top Pro.jpg",
+      "manufacturer": "BoneHead Composites",
+      "name": "BoneHead Flat Top Pro",
+      "price": 48932,
+      "subCategory": "cameramanHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Новая версия популярного операторского шлема с двумя платформами фирмы BoneHead Composites. Имеется место для системы управления камерами sony HYPEYE. Стандартный цвет - карбон. Так же возможны другие цвета (+30$)..."
+      ],
+      "id": "91",
+     "img": "./img/catalog/BoneHead Optik 210.jpg",
+      "manufacturer": "BoneHead Composites",
+      "name": "BoneHead Optik 210",
+      "price": 28492,
+      "subCategory": "openHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Открытый шлем для CRW (купольной акробатики)."
+      ],
+      "id": "92",
+     "img": "./img/catalog/CRW Guner.jpg",
+      "manufacturer": "BoneHead Composites",
+      "name": "CRW Guner",
+      "price": 18272,
+      "subCategory": "openHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Шлем для любителей округлых форм. Стандартный цвет - карбон. Так же возможны другие цвета (+30$)..."
+      ],
+      "id": "93",
+     "img": "./img/catalog/Guner.jpg",
+      "manufacturer": "BoneHead Composites",
+      "name": "Guner",
+      "price": 18272,
+      "subCategory": "openHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Еще один шлем для FF от BoneHead Composites. Модель 2012 г. Стандартный цвет - карбон. Так же возможны другие цвета (+30$)..."
+      ],
+      "id": "94",
+     "img": "./img/catalog/X-Sport.jpg",
+      "manufacturer": "BoneHead Composites",
+      "name": "X-Sport",
+      "price": 18272,
+      "subCategory": "openHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Новинка среди закрытых шлемов. Хороший обзор и новая система вентиляции, и  фиксации шлема."
+      ],
+      "id": "95",
+     "img": "./img/catalog/Kiss.jpg",
+      "manufacturer": "Square One",
+      "name": "Kiss",
+      "price": 29111,
+      "subCategory": "closeHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Особенности:",
+        "Линза из 2 мм. поликарбона надежно защищает лицо и обеспечивает широкий обзор.",
+        "Двойная защелка линзы и возможность быстрой замены линзы без применения инструментов.",
+        "Удобная система затяжки шлема."
+      ],
+      "id": "96",
+     "img": "./img/catalog/Phantom X.jpg",
+      "manufacturer": "Square One",
+      "name": "Phantom X",
+      "price": 20440,
+      "subCategory": "closeHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Закрытый парашютный  шлем производства ParaSport Italia с новым типом визора."
+      ],
+      "id": "97",
+     "img": "./img/catalog/Z1.jpg",
+      "manufacturer": "Parasport Italia",
+      "name": "Z1",
+      "price": 24775,
+      "subCategory": "closeHelmet"
+    },
+    {
+      "category": "helmets",
+      "description": [
+        "Открытый шлем для FF, FreeStyle и CRW. Возможно комплектование системой отцепки и жестким подбородком."
+      ],
+      "id": "98",
+     "img": "./img/catalog/Z1 Jed-A Wind.jpg",
+      "manufacturer": "Parasport Italia",
+      "name": "Z1 Jed-A Wind",
+      "price": 12661,
+      "subCategory": "openHelmet"
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "Вингсьют для акробатики, формаций и видео-операторов."
+      ],
+      "id": "99",
+     "img": "./img/catalog/Barracuda-2.jpg",
+      "manufacturer": "Intrudair",
+      "name": "Barracuda-2",
+      "price": 55583,
+      "subCategory": ""
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "Самый большой вингсьют в линейке Intrudair. Огромная площадь и невероятно медленная скорость падения!!! Только для опытных пилотов."
+      ],
+      "id": "100",
+     "img": "./img/catalog/Manta-2.jpg",
+      "manufacturer": "Intrudair",
+      "name": "Manta-2",
+      "price": 67935,
+      "subCategory": ""
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "Универсальный вингсьют, для одиночных и групповых полетов. Подойдет начинающим пилотам и тем, кто хочет прыгать B.A.S.E."
+      ],
+      "id": "101",
+     "img": "./img/catalog/Piranha-3.jpg",
+      "manufacturer": "Intrudair",
+      "name": "Piranha-3",
+      "price": 49407,
+      "subCategory": ""
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "Вингсьют для продвинутых пилотов. Высокая скорость с хорошим качеством делает этот костюм прекрасным выбором для тех, кто прыгает BASE."
+      ],
+      "id": "102",
+     "img": "./img/catalog/Shark-2.jpg",
+      "manufacturer": "Intrudair",
+      "name": "Shark-2",
+      "price": 64847,
+      "subCategory": ""
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "Самый большой костюм в линейке Squirrel. Для опытных base-ров. Быстрый старт, скорость и дальнось."
+      ],
+      "id": "103",
+     "img": "./img/catalog/Aura-3.jpg",
+      "manufacturer": "Squirrel",
+      "name": "Aura-3",
+      "price": 122639,
+      "subCategory": ""
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "Универсальный костюм для base и slydive полетов. Можно летать быстро, можно эффективно летать на спине, летать XRW и формации, можно летать... все! :)"
+      ],
+      "id": "104",
+     "img": "./img/catalog/Freak-3.jpg",
+      "manufacturer": "Squirrel",
+      "name": "Freak-3",
+      "price": 111490,
+      "subCategory": ""
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "WingSuit для пилотов среднего уровня. Подходит для начинающих base пилотов."
+      ],
+      "id": "105",
+     "img": "./img/catalog/Swift-3.jpg",
+      "manufacturer": "Squirrel",
+      "name": "Swift-3",
+      "price": 89811,
+      "subCategory": ""
+    },
+    {
+      "category": "wingsuits",
+      "description": [
+        "Современный TrackSuit для Base и Skydive от компании Squirrel. Качественные материалы и удобство использования."
+      ],
+      "id": "106",
+     "img": "./img/catalog/Sumo 2.jpg",
+      "manufacturer": "Squirrel",
+      "name": "Sumo 2",
+      "price": 47693,
+      "subCategory": ""
+    }    
   ]
 }
